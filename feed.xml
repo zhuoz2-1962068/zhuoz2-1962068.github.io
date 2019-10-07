@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+	<title>MyRssfeed</title>
+	<link>https://komonews.com/news/local/moreM</link<
+	<description>Seattle News</description>
+	<languague>en-us</language>hhhh
+	<image>
+		<title>MyRssfeed</title>
+		<link>https://komonews.com/news/local/moreM</link>
+		<url>https://static.seattletimes.com/wp-content/uploads/2019/09/09252019_skyline_142227-780x453.jpg</url>
+		<width>150</width>
+		<height>124</height>
+		</image>
+		<item>
+		<title>It is not my content is Seattle News</title>
+		<pubDate>Sun, 6 Oct 2019 23:38:30 -0400</pubdate>
+		<link>https://komonews.com/news/local/moreM</link>
+		<description><![CDATA[Visit this <a href="https://komonews.com/news/local/moreM">link</a>to the website!]]></description>
+		<author>fruan35@gmail.com</author>
+		<comments>blablabla</comments>
+		<category>technology</category>
+		</item>
+		</channel>
+		</rss>
