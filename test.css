@@ -7,9 +7,9 @@
     background-color: cyan;
     color: blue;
 }
-<!--- I change the border color to green from black--!>
-<!---- the color of the background of the header was change from gold to cyan
-and added the text color to blue--!>
+/* I change the border color to green from black*/
+/*the color of the background of the header was change from gold to cyan
+and added the text color to blue*/
 
 #Header h1{
     font-size: 60px;
@@ -17,11 +17,12 @@ and added the text color to blue--!>
     font-weight: bold;
     font-family: "Times New Roman";
     text-align: center;
-    background-color: purple;
+    background-color: #9900FF;
     
 }
 
-<!--- I change the font from Passion One to Times New Roman---!>
+/*change the color from darkish purple to a more lighter purlple*/
+/*I change the font from Passion One to Times New Roman*/
 body {
     background-image: url('image.jpeg');
 }
@@ -66,8 +67,10 @@ width: 400px;
     font-weight: bold;
     font-family: "Verdana";
 }
-<--- I added a new way to style the Id #bow section to color the text green, added bold letters to it and added a font into the text---!>
+/*I added a new way to style the Id #bow section to color the text green, added bold letters to it and added a font into the text*/
 
 #Footer {
     text-align: center;
     border: solid 8px black;
+    color: red;
+}
