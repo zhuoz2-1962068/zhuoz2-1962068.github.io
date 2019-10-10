@@ -1,0 +1,73 @@
+#Header{
+    border: solid 8px green;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: cyan;
+    color: blue;
+}
+<!--- I change the border color to green from black--!>
+<!---- the color of the background of the header was change from gold to cyan
+and added the text color to blue--!>
+
+#Header h1{
+    font-size: 60px;
+    color: gold;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    text-align: center;
+    background-color: purple;
+    
+}
+
+<!--- I change the font from Passion One to Times New Roman---!>
+body {
+    background-image: url('image.jpeg');
+}
+
+p {
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+h3 {
+    color: #FFBC00;
+    font-size: 40x;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+}
+#LeftNav {
+width: 400px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    float: Left;
+    background-color: purple;
+}
+
+#Content {
+    width: 700px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 8px Green;
+    text-align: center;
+    background-color: purple;
+    color: yellow;
+
+}
+
+#bow {
+    color: green;
+    font-weight: bold;
+    font-family: "Verdana";
+}
+<--- I added a new way to style the Id #bow section to color the text green, added bold letters to it and added a font into the text---!>
+
+#Footer {
+    text-align: center;
+    border: solid 8px black;
